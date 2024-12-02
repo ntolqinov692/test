@@ -25,7 +25,7 @@ public class Main {
         System.out.println(numberlist);
         numberlist.removeLast();
         System.out.println(numberlist.contains(20));
-        System.out.println("HILLO");
+        System.out.println("asd");
 
 
 
